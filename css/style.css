@@ -1,0 +1,26 @@
+
+.text{
+	color: #1F0E11;
+}
+.color-list{
+	color: rgb(136, 229, 29);
+}
+.color-link{
+	color: #BD33A4;
+}
+strong{
+	color:#C10020;
+}
+h2{
+	color: #423434;
+}
+
+p{
+	color: rgb(67, 116, 213);
+}
+footer p{
+	color: blue;
+}
+em{
+	color: rgb(17, 11, 31);
+}
